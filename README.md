@@ -1,4 +1,4 @@
-# Ejercicio: Comprobador de Atracción de Feria
+# Ejercicio 1: Comprobador de Atracción de Feria
 
 Crea una página web que permita comprobar si una persona puede subir a una atracción de feria.
 
