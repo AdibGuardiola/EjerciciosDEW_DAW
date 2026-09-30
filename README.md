@@ -1,21 +1,10 @@
-# Ejercicios DEW / DAW
+# Ejercicio: Comprobador de Atracción de Feria
 
-Repositorio para los ejercicios prácticos del módulo **Desarrollo Web en Entorno Cliente (DEW)**.
+Crea una página web que permita comprobar si una persona puede subir a una atracción de feria.
 
----
+El usuario debe introducir su edad y su altura en metros.
 
-## 🎡 Ejercicio: Comprobador de Atracción de Feria
+Al pulsar el botón Comprobar, el programa mostrará un mensaje:
 
-### Descripción
-Página web interactiva para comprobar si una persona cumple con los requisitos de edad y altura para subir a una atracción de feria.
-
-### Requisitos de acceso
-- **Edad:** Entre **16** y **60** años (inclusive).
-- **Altura:** Entre **1.40 m** y **1.90 m** (inclusive).
-
-### Respuestas del programa
-- ✅ **`Puedes subir a la atracción`**: Si se cumplen ambas condiciones.
-- ❌ **`No cumples los requisitos`**: En caso contrario.
-
-### Archivos
-- [`index.html`](index.html): Código fuente de la página web (HTML5, CSS3 y JavaScript ES6).
+* ✅ **"Puedes subir a la atracción"** si la edad está entre 16 y 60 años y la altura está entre 1.40 m y 1.90 m.
+* ❌ **"No cumples los requisitos"** en caso contrario.
